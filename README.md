@@ -1,5 +1,4 @@
 ### Hi there 👋I am Thuong and this is a very professional profile
-1	
 
 <!--
 **thuongngo050902/thuongngo050902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
