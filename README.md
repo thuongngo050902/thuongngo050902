@@ -80,4 +80,7 @@
 	<code><a href="https://www.linkedin.com/in/thuong-ngo-thi-28a95a23a/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
 	<code><a href="mailto:ngothithuong592002@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>
+ <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=thuongngo050902&label=Profile+Views" alt="thuongngo050902" />
+  </p>
 </p>
