@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm THUONG NGO </h1>
 <p align="justify">
   <em>
-	  I'm a self-taught <b>programmer</b>, and I love <b>coding</b>! <img src="./images/Developer.gif" width="30px">. Not only do I get to exercise my creativity while working on projects, but I also get to learn something new with every challenge that comes my way. Working with code is more than just an <b>occupation</b> for me   </b> ️
+	  I'm a self-taught <b>programmer</b>, and I love <b>coding</b>!. Not only do I get to exercise my creativity while working on projects, but I also get to learn something new with every challenge that comes my way. Working with code is more than just an <b>occupation</b> for me   </b> ️
   </em> 
   <br>
 </p>
@@ -62,7 +62,7 @@
 
 <p align="center">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thuongngo050902&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thuongngo050902&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+<!--   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thuongngo050902&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/> -->
 <br>
 
 <p align="center">
