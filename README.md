@@ -1,4 +1,4 @@
-![alt text](./images/header.svg)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DevOps+Engineer;Cloud%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
@@ -10,20 +10,15 @@
   </em> 
   <br>
 </p>
-<p align="center">
-	<img src="./images/dog_2.gif" width="50" /> <b><i>Quote : "To thine own self, be true!”</i></b> <img src="./images/dog_1.gif" width="50" />
-</p>
-
 <br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
-* 🌱 I'm learning ***Kubernetes*** and ***Docker*** 😍
-* 🏆 I usually work with ***Java language***
+* 🏆 I usually work with ***Python language***
 * 📫 Ask me anything you want [**here**](https://github.com/thuongngo050902), If I were alive, I would reply within seconds 😉
-* 😄 Fun fact: I am always trying to learn new things. 
+
 
 <br>
 
