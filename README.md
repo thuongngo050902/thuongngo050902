@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm THUONG NGO </h1>
 <p align="justify">
   <em>
-	  I'm a self-taught <b>programmer</b>, and I absolutely love <b>coding</b>! I find it extremely satisfying to solve complex problems by creating robust and efficient programs <img src="./images/Developer.gif" width="30px">. Not only do I get to exercise my creativity while working on projects, but I also get to learn something new with every challenge that comes my way. Working with code is more than just an <b>occupation</b> for me <img src="./images/Designer.gif" width="30px">; it's an incredibly rewarding experience. The feeling of accomplishment when you finally overcome an obstacle is unparalleled by any other activity, and <b>I wouldn't trade it for the world! </b> ️🥇
+	  I'm a self-taught <b>programmer</b>, and I love <b>coding</b>! <img src="./images/Developer.gif" width="30px">. Not only do I get to exercise my creativity while working on projects, but I also get to learn something new with every challenge that comes my way. Working with code is more than just an <b>occupation</b> for me <img src="./images/Designer.gif" width="30px">;  </b> ️🥇
   </em> 
   <br>
 </p>
