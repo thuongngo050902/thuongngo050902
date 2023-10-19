@@ -61,7 +61,7 @@
 ### 📊 GitHub Profile Stats
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nhathuy1305&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thuongngo050902&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thuongngo050902&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -76,9 +76,9 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    	<code><a href="thuongngo050902/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
-	<code><a href="https://www.linkedin.com/in/thuong-ngo-thi-28a95a23a/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
-	<code><a href="mailto:ngothithuong592002@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+    	<code><a href="thuongngo050902/"><img width="30px" src=".//></a></code>
+	<code><a href="https://www.linkedin.com/in/thuong-ngo-thi-28a95a23a/"><img width="30px" src=".//></a></code>
+	<code><a href="mailto:ngothithuong592002@gmail.com"><img width="30px" src=".//></a></code>
   </p>
  <p align="center">
       <img src="https://komarev.com/ghpvc/?username=thuongngo050902&label=Profile+Views" alt="thuongngo050902" />
