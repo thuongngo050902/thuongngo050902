@@ -8,8 +8,6 @@
 </p>
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
-
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
 * 🏆 I usually work with ***Python language***
