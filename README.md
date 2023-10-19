@@ -1,7 +1,6 @@
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DevOps+Engineer;Cloud%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+Hi there, 
+I'm THUONG NGO
 </p>
 
 <p align="justify">
@@ -35,16 +34,12 @@
 <p>
     <a href="https://github.com/search?q=user%3Athuongngo050920is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Athuongngo050902+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Athuongngo050902+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a> -->
     <a href="https://github.com/search?q=user%3Athuongngo050902+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Athuongngo050902+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=mysql&logoColor=white"></a>
 
 ### 📚 Libraries
 
 <p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2321232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="D3.js" src="https://img.shields.io/badge/D3.js-%2020532a.svg?logo=d3.js&logoColor=white"></a>
-    <a href="#"><img alt="p5.js" src="https://img.shields.io/badge/p5.js-%23F7DF1E.svg?logo=p5dotjs&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23430098.svg?logo=numpy&logoColor=white"></a>
 </p>
 
@@ -53,7 +48,6 @@
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%24430098.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="MS SQL Server" src="https://img.shields.io/badge/MS%20SQL%20Server-%2300f.svg?logo=microsoftsqlserver&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23430098.svg?logo=amazonaws&logoColor=white"></a>
 </p>
 </p>
 
